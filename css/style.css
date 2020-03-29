@@ -42,6 +42,9 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
 }
 
+.header__inner--icons {
+    width: 10px;
+}
 .nav {
     font-size: 12px;
     text-transform: uppercase;
@@ -54,3 +57,4 @@ h1, h2, h3, h4, h5, h6 {
     color: #e83838;
     text-decoration: none;
 }
+
